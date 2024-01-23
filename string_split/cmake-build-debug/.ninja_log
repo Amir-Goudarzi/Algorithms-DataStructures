@@ -1,0 +1,16 @@
+# ninja log v5
+1	551	6985940102862569	CMakeFiles/string_split.dir/main.c.obj	c9a5b6edf24fbb2a
+576	840	6985940105687172	string_split.exe	fc6fbf62b4abd93c
+4	253	6985941688361184	CMakeFiles/string_split.dir/main.c.obj	c9a5b6edf24fbb2a
+254	584	6985941691654369	string_split.exe	fc6fbf62b4abd93c
+3	208	6985941782308935	CMakeFiles/string_split.dir/main.c.obj	c9a5b6edf24fbb2a
+208	378	6985941783875526	string_split.exe	fc6fbf62b4abd93c
+2	191	6985941890369272	CMakeFiles/string_split.dir/main.c.obj	c9a5b6edf24fbb2a
+191	451	6985941892877461	string_split.exe	fc6fbf62b4abd93c
+3	406	6985942506782863	CMakeFiles/string_split.dir/main.c.obj	c9a5b6edf24fbb2a
+1	237	6985942648958388	CMakeFiles/string_split.dir/main.c.obj	c9a5b6edf24fbb2a
+237	441	6985942650997632	string_split.exe	fc6fbf62b4abd93c
+2	184	6985942709981245	CMakeFiles/string_split.dir/main.c.obj	c9a5b6edf24fbb2a
+184	344	6985942711547946	string_split.exe	fc6fbf62b4abd93c
+3	298	6985942821498602	CMakeFiles/string_split.dir/main.c.obj	c9a5b6edf24fbb2a
+298	524	6985942823694311	string_split.exe	fc6fbf62b4abd93c

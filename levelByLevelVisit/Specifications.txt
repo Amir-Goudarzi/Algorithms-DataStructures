@@ -1,0 +1,9 @@
+A tree is made by the following structure:
+
+struct node {
+    int key;
+    struct node *child[N];
+};
+
+
+Write a function that recieving a root of a tree, integer l1 and l2 (l2 >= l1)prints the keys of the nodes having depth from l1 to l2.

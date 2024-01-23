@@ -1,0 +1,3 @@
+E:/Work/programming/Exercises - C and C++/stringGenerator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/Work/programming/Exercises - C and C++/stringGenerator/cmake-build-debug/CMakeFiles/stringGenerator.dir
+E:/Work/programming/Exercises - C and C++/stringGenerator/cmake-build-debug/CMakeFiles/edit_cache.dir

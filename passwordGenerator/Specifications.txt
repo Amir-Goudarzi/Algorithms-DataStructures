@@ -1,0 +1,4 @@
+Write a program that generates all passwords comprised of 5 letters satisfying the following conditions:
+1) The first 3 letters should be capital alphabetic characters,
+2) The last 2 letters should be digits from 0 to 9,
+3) Each letter should be repeated at most n times and n should be received from the user.

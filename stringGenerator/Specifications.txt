@@ -1,0 +1,13 @@
+A text file contains an integer n on the first line, then n lines of strings. Write a recursive program that generates all the strings with characters each from the corresponding line.
+For example if the input file is :
+
+3
+N
+12
+XY
+
+the program should print:
+N1X
+N1Y
+N2X
+N2Y

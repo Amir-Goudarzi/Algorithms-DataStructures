@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "intelliSenseMode": "windows-msvc-x64",
+            "compilerPath": "\"E:\\Work\\Apps\\CLion 2021.3.3\\bin\\mingw\\bin\\gcc.exe\"",
+            "cStandard": "c99"
+        }
+    ],
+    "version": 4
+}

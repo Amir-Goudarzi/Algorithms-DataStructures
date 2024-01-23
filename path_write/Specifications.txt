@@ -1,0 +1,12 @@
+A binary tree is structured as following:
+
+struct node {	
+	int key;
+	struct node *left;
+	struct node *right;
+};
+
+
+
+
+Write a function void path_write(struct node *root, int height, ...) that given  root of a binary tree and its height, prints all keys and the path of the key.
